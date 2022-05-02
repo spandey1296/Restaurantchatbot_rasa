@@ -8,7 +8,6 @@ intents:
   - mood_great
   - mood_unhappy
   - bot_challenge
-  - bot_challenge
   - inform
   - thankyou
   - out_of_scope
